@@ -271,6 +271,8 @@ export REPORT_RECIPIENT_EMAIL=recipient@example.com
 │   └── system2_test.jmx
 
 └── results/                    # 测试结果目录（自动生成）
+<img width="2524" height="971" alt="image" src="https://github.com/user-attachments/assets/cfb6a8ea-836e-4975-a730-e6a045f75485" />
+
 
 4. 配置文件
 框架支持通过环境变量配置：
