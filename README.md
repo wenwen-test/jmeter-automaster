@@ -249,16 +249,29 @@ export REPORT_SENDER_PASSWORD=your_smtp_password
 export REPORT_RECIPIENT_EMAIL=recipient@example.com
 3. 目录结构
 复制
+
+
+
 ├── scripts/                   # 脚本目录
+
 │   ├── EmailSender.py          # 邮件发送模块
+
 │   ├── JMeterTestRunner.py     # 测试运行器
+
 │   ├── ReportGenerator.py      # 报告生成器
+
 │   ├── TestUtils.py            # 工具函数
+
 │   └── mainrun.py              # 主程序
+
 ├── tests/                      # JMX测试目录
+
 │   ├── system1_test.jmx
+
 │   └── system2_test.jmx
+
 └── results/                    # 测试结果目录（自动生成）
+
 4. 配置文件
 框架支持通过环境变量配置：
 
