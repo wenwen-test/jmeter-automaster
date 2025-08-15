@@ -272,6 +272,7 @@ export REPORT_RECIPIENT_EMAIL=recipient@example.com
 
 └── results/                    # 测试结果目录（自动生成）
 <img width="2524" height="971" alt="image" src="https://github.com/user-attachments/assets/cfb6a8ea-836e-4975-a730-e6a045f75485" />
+<img width="2377" height="495" alt="image" src="https://github.com/user-attachments/assets/76060ac2-2876-43c1-af75-e3047b7c03c3" />
 
 
 4. 配置文件
